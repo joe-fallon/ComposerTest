@@ -1,8 +1,8 @@
 {
-    "name":"joe-fallon/composer-test",
+    "name":"joe-fallon/ComposerTest",
     "description": "Project description foes here.",
     "keywords": ["first-keyword", "second-keyword", "third-keyword"],
-    "homepage": "https://github.com/joe-fallon/composer-test",
+    "homepage": "https://github.com/joe-fallon/ComposerTest",
     "type": "library",
     "license": "private",
     "authors": [
