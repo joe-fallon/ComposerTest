@@ -1,6 +1,6 @@
 {
     "name":"joe-fallon/ComposerTest",
-    "description": "Project description foes here.",
+    "description": "Project description goes here.",
     "keywords": ["first-keyword", "second-keyword", "third-keyword"],
     "homepage": "https://github.com/joe-fallon/ComposerTest",
     "type": "library",
