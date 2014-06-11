@@ -18,7 +18,7 @@
     "autoload": {
         "psr-0":
         {
-            "\\Jtf\\ComposerTest\\Foo": "src/"
+            "Jtf\\ComposerTest\\Foo": "src/"
         }
     },
     "repositories": [
