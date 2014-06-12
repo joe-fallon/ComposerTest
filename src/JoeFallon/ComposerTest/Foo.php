@@ -1,6 +1,6 @@
 <?php
 
-namespace Jtf\ComposerTest;
+namespace JoeFallon\ComposerTest;
 
 class Foo
 {
